@@ -1,0 +1,136 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+
+    background-color:  yellow;
+    margin: 15px;
+    padding: 15px;
+}
+
+.logo img{
+
+    height: 120px;
+    width: 120px;
+
+}
+
+.nav{
+    
+        margin-top: 15px;
+        margin-left: 150px;
+        padding: 30px;
+        align-items: center;
+    
+    
+}
+
+.nav a{
+
+        text-decoration: none;
+        display:inline;
+        margin: 55px;
+        padding: 15px;
+        color: rgb(228, 66, 66);
+        font-size: large;
+        font-weight: bold;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        
+}
+
+.nav a:hover {
+
+    background-color: black;
+      border-radius: 15px;
+      color: white;
+}
+
+.left img{
+   
+    padding: 80px;
+    margin-top: 120px;
+    margin-left: 100px;
+    height: 400px;
+    width: 400px;
+}
+
+.left p{
+
+    font-size:xx-large;
+    font-weight: bold;
+    margin-left: 150px;
+    margin-top: 20pxpx;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2{
+
+    font-size: x-large;
+    font-weight: bold;
+}
+
+
+.cards{
+
+   
+    margin-left: 55px;
+    margin-right: 50px;
+    width: 15%;
+    display:inline-block;
+    justify-content:space-around;
+    background-color: rgb(255, 255, 255);
+    margin-top: 40px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 10px black;
+    
+}
+
+.cards img{
+
+   margin-top: 5px;
+  
+}
+
+
+.title{
+
+    text-align: center;
+}
+
+.title select{
+
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+.title button{
+
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.Foot{
+
+    text-align: center;
+    margin-top: 50px;
+    height: 130px;
+    background-color: silver;
+    border-radius: 15px;
+}
+
+.Foot img{
+
+    margin-top: 15px;
+    cursor: pointer;
+}
+.Foot img:hover{
+
+    background-color: rgb(96, 202, 226);
+
+    border-radius: 5px;
+}
